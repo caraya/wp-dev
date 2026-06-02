@@ -1,0 +1,5 @@
+# Ignore everything inside the directory
+wp-content/uploads/*
+
+# But do not ignore the .gitkeep file
+!wp-content/uploads/.gitkeep
