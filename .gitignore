@@ -3,3 +3,6 @@ wp-content/uploads/*
 
 # But do not ignore the .gitkeep file
 !wp-content/uploads/.gitkeep
+
+# Personal backup file used for testing, ignore it
+carlosthoughtpockets.wordpress.2023-11-08.000.xml
